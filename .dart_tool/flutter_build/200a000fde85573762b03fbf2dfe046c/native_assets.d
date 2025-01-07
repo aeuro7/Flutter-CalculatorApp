@@ -1,0 +1,1 @@
+ /Users/euro/Project/Mobile/Lab/Week6/Cal/My-Flutter-Template-/.dart_tool/flutter_build/200a000fde85573762b03fbf2dfe046c/native_assets.yaml: 
